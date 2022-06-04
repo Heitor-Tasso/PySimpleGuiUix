@@ -10,7 +10,7 @@
 
 <img src="examples/exemplo-image1.png" alt="exemplo imagem1">
 
-> Comecei a fazer essa lib para quem trabalha com PySimpleGUI e quer um opouco mais
+> Comecei a fazer essa lib para quem trabalha com PySimpleGUI e quer um pouco mais
 > de facilidade, veja os exemplos em "examples/" para entender melhor.
 
 ### Ajustes e melhorias
