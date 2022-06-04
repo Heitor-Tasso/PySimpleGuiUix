@@ -2,13 +2,13 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SrGambiarra/ESP8266-MultiplayerGame?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/SrGambiarra/ESP8266-MultiplayerGame?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/SrGambiarra/ESP8266-MultiplayerGame?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/SrGambiarra/ESP8266-MultiplayerGame?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/SrGambiarra/ESP8266-MultiplayerGame?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Heitor-Tasso/PySimpleGuiUix?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Heitor-Tasso/PySimpleGuiUix?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Heitor-Tasso/PySimpleGuiUix?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Heitor-Tasso/PySimpleGuiUix?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Heitor-Tasso/PySimpleGuiUix?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="examples/exemplo-image1.png" alt="exemplo imagem1">
 
 > Comecei a fazer essa lib para quem trabalha com PySimpleGUI e quer um opouco mais
 > de facilidade, veja os exemplos em "examples/" para entender melhor.
@@ -17,11 +17,11 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Enviar e receber informações do ESP8266
-- [x] Ter conexões simultâneas e fazer se comunicarem
-- [x] Desenhar todo o jogo em um Display ISP conectado ao ESP8266
-- [ ] Adicionar a opção de poder utlizar o Wifi residencial
-- [ ] Fazer com que o jogo também "apareça" no GamePad
+- [x] Popups customizaveis
+- [x] Window Callback's
+- [x] Table date
+- [ ] Terminal widget
+- [ ] Scrollview Widget
 
 ## 💻 Pré-requisitos
 
